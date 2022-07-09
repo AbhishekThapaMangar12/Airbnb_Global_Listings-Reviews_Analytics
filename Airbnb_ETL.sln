@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Airbnb_Master", "Airbnb_Master\Airbnb_Master.dtproj", "{37AC9C85-295F-4C6A-9352-352B181F6333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AC9C85-295F-4C6A-9352-352B181F6333}.Development|Default.ActiveCfg = Development
+		{37AC9C85-295F-4C6A-9352-352B181F6333}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A9DC138-2836-4C8B-AE0F-C361B0695ED6}
+	EndGlobalSection
+EndGlobal
